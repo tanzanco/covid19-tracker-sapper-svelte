@@ -1,3 +1,6 @@
+Isnt working due to discontinution of histporic covid data collecting api
+
+
 # sapper-template
 
 The default [Sapper](https://github.com/sveltejs/sapper) template, available for Rollup and webpack.
